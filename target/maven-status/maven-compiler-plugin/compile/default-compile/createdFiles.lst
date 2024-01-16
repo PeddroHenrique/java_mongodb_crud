@@ -1,0 +1,6 @@
+br\com\mongodbcrud\model\Cliente.class
+br\com\mongodbcrud\MongodbcrudApplication.class
+br\com\mongodbcrud\controller\ClienteController.class
+br\com\mongodbcrud\service\impl\ClienteServiceImpl.class
+br\com\mongodbcrud\service\ClienteService.class
+br\com\mongodbcrud\repository\ClienteRepository.class
